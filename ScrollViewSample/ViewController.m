@@ -4,7 +4,9 @@
 //
 //  Created by 真有 津坂 on 12/04/26.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
-//
+//1.StoryboardにscrollViewを設置して結びつける
+//2.scrollViewの上にUIパーツを設置して結びつける
+//3..mに以下の「追加」と書かれている部分を書き込む
 
 #import "ViewController.h"
 
